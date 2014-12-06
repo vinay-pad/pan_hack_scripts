@@ -1,0 +1,31 @@
+<info name="fw1">
+   <cpu>
+      <entry name="total">
+          <value>99</value>
+     </entry>
+
+      <entry name="mgmtsrvr">
+	<value>43</value>
+     </entry>
+    </cpu>
+
+    <disks>
+        <entry name="diskA">
+             <usage> </usage>
+        </entry>
+   </disks>
+   <memory>
+        <entry name="total">
+             <value> </value>
+        </entry>
+
+       <entry name="mgmtsrvr">
+   	<value> </value>
+       </entry>
+   </memory>
+ <rate>
+     <entry name="logrcvr">
+	<value></value>
+     </entry>
+ </rate>
+</info>

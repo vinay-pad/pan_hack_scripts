@@ -1,0 +1,11 @@
+ <firewall-threat-alert name="FW-West-Coast" ip-addr="10.5.104.53" logid="6089136626309845878">
+    <receive_time>2014/12/04 21:44:51</receive_time>
+    <subtype>attack</subtype>
+    <time_generated>2014/12/04 21:44:51</time_generated>
+    <src>192.168.30.1</src>
+    <dst>81.210.43.243</dst>
+    <rule>rule-1</rule> 
+    <threat-name>Microsoft Internet Explorer CSS Strings Parsing Memory Corruption Vulnerability</threat-name>
+    <category>overflow</category>
+    <severity>critical</severity>   
+ </firewall-threat-alert>

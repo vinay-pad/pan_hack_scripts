@@ -1,0 +1,39 @@
+<firewall-sysinfo name="FW-West-Coast" ip-addr="10.5.104.53">
+  <cpu-usage>
+    <entry name="total">
+      <value>99</value>
+    </entry>
+    <entry name="mgmtsrvr">
+	    <value>43</value>
+    </entry>
+    <entry name="logrcvr">
+      <value>43</value>
+    </entry>
+  </cpu-usage>
+  <disk-usage>
+    <entry name="/opt/pancfg">
+      <usage>2.1G</usage>
+    </entry>
+    <entry name="/opt/panrepo">
+      <usage>3.1G </usage>
+    </entry>
+    <entry name="/dev/shm">
+      <usage>4.1G</usage>
+    </entry>
+    <entry name="/opt/panlogs">
+      <usage>1.1G</usage>
+    </entry>
+  </disk-usage>
+  <memory-usage>
+    <entry name="total">
+      <value> </value>
+    </entry>
+    <entry name="mgmtsrvr">
+   	  <value> </value>
+    </entry>
+  </memory-usage>
+  <log-rate>4500</log-rate>
+  <throughput>450</throughput>
+  <active-sessions>3000</active-sessions>
+  <ha-status>active</ha-status>
+</firewall-sysinfo>

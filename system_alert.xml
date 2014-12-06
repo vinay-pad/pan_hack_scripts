@@ -1,0 +1,7 @@
+<firewall-sys-alert logid="6089136626309529733">
+    <type>SYSTEM</type>
+    <subtype>HA-STATE</subtype>
+    <time_generated>2014/12/04 21:27:57</time_generated>
+    <severity>critical</severity>
+    <opaque>HA device has changed states</opaque>
+</firewall-sys-alert>
